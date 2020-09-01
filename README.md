@@ -28,7 +28,7 @@ optional arguments:
   --confidence CONFIDENCE  minimum probability to filter weak detections, default 0.5
   --threshold THRESHOLD    threshold when applying non-maxima suppression, default 0.3
 ```
-![image](https://github.com/spectrico/car-color-classifier-yolo4-python/blob/master/output.jpg?raw=true)
+![image](https://github.com/spectrico/vehicle-brand-recognition-yolov4-python/blob/master/output.jpg?raw=true)
 
 ---
 ## Requirements

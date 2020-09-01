@@ -12,12 +12,12 @@ This example takes an image as input, detects the cars using YOLOv4 object detec
 
 
 #### Usage
-Use --help to see usage of car_color_classifier_yolo4.py:
+Use --help to see usage of car_brand_classifier_yolo4.py:
 ```
-$ python car_color_classifier_yolo4.py --image cars.jpg
+$ python car_brand_classifier_yolo4.py --image cars.jpg
 ```
 ```
-$ python car_color_classifier_yolo4.py [-h] [--yolo MODEL_PATH] [--confidence CONFIDENCE] [--threshold THRESHOLD] [--image]
+$ python car_brand_classifier_yolo4.py [-h] [--yolo MODEL_PATH] [--confidence CONFIDENCE] [--threshold THRESHOLD] [--image]
 
 required arguments:
   -i, --image              path to input image

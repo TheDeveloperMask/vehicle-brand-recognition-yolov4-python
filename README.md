@@ -38,7 +38,7 @@ optional arguments:
   
   pip install MNN
   
-  If you use Windows, the OpenCV have to be installed from: https://www.lfd.uci.edu/~gohlke/pythonlibs/
+  If you use Windows, the OpenCV package is recommended to be installed from: https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
   yolov4.weights must be downloaded from [https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights) and saved in folder yolov4
 

@@ -33,7 +33,9 @@ optional arguments:
 ---
 ## Dependencies
   pip install numpy
+  
   pip install opencv-python
+  
   pip install MNN
   
   If you use Windows, the OpenCV have to be installed from: https://www.lfd.uci.edu/~gohlke/pythonlibs/

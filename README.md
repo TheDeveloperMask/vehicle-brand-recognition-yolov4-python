@@ -31,12 +31,14 @@ optional arguments:
 ![image](https://github.com/spectrico/vehicle-brand-recognition-yolov4-python/blob/master/output.jpg?raw=true)
 
 ---
-## Requirements
-  - python
-  - numpy
-  - MNN
-  - opencv
-  - yolov4.weights must be downloaded from [https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights) and saved in folder yolov4
+## Dependencies
+  pip install numpy
+  pip install opencv-python
+  pip install MNN
+  
+  If you use Windows, the OpenCV have to be installed from: https://www.lfd.uci.edu/~gohlke/pythonlibs/
+
+  yolov4.weights must be downloaded from [https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights](https://github.com/AlexeyAB/darknet/releases/download/darknet_yolo_v3_optimal/yolov4.weights) and saved in folder yolov4
 
 ---
 ## Credits
